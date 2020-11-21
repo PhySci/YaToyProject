@@ -1,0 +1,13 @@
+env
+/.idea
+*.pyc
+*.log
+/wizard/wizard/tests/outputs/**
+/wizard/build
+/wizard/ExamCardWizard.egg-info
+/experiments/mlflow/mlruns
+/train/data
+/src/wizard/dist/
+/src/wizard/ExamCardWizard.egg-info/
+/src/awesomework/AwesomePackage.egg-info
+/src/awesomework/dist
